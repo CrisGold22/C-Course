@@ -12,3 +12,4 @@ C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Program
 C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.pdb
 C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.genruntimeconfig.cache
 C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\ref\Primer Programa.dll
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.sourcelink.json
