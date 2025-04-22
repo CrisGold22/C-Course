@@ -1,0 +1,15 @@
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.AssemblyInfoInputs.cache
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.AssemblyInfo.cs
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.sourcelink.json
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\bin\Debug\net8.0\Function Methods.exe
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\bin\Debug\net8.0\Function Methods.deps.json
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\bin\Debug\net8.0\Function Methods.runtimeconfig.json
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\bin\Debug\net8.0\Function Methods.dll
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\bin\Debug\net8.0\Function Methods.pdb
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.dll
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\refint\Function Methods.dll
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.pdb
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\Function Methods.genruntimeconfig.cache
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Function Methods\Function Methods\obj\Debug\net8.0\ref\Function Methods.dll

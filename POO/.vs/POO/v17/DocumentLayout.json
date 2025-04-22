@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|c:\\users\\cristhian horacio\\documents\\visual studio 2022\\c# course\\poo\\poo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|solutionrelative:poo\\circle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|c:\\users\\cristhian horacio\\documents\\visual studio 2022\\c# course\\poo\\poo\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|solutionrelative:poo\\figure.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|c:\\users\\cristhian horacio\\documents\\visual studio 2022\\c# course\\poo\\poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|solutionrelative:poo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|c:\\users\\cristhian horacio\\documents\\visual studio 2022\\c# course\\poo\\poo\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FB888CFA-3421-4846-9EF8-B9A31C4A395A}|POO\\POO.csproj|solutionrelative:poo\\square.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Square.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Square.cs",
+              "RelativeDocumentMoniker": "POO\\Square.cs",
+              "ToolTip": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Square.cs",
+              "RelativeToolTip": "POO\\Square.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:13:14.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Circle.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Circle.cs",
+              "RelativeDocumentMoniker": "POO\\Circle.cs",
+              "ToolTip": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Circle.cs",
+              "RelativeToolTip": "POO\\Circle.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAEAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:12:47.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Figure.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Figure.cs",
+              "RelativeDocumentMoniker": "POO\\Figure.cs",
+              "ToolTip": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Figure.cs",
+              "RelativeToolTip": "POO\\Figure.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T07:12:41.958Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Program.cs",
+              "RelativeDocumentMoniker": "POO\\Program.cs",
+              "ToolTip": "C:\\Users\\Cristhian Horacio\\Documents\\Visual Studio 2022\\C# Course\\POO\\POO\\Program.cs",
+              "RelativeToolTip": "POO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAADIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-22T06:24:06.863Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
