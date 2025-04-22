@@ -1,0 +1,14 @@
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\bin\Debug\net8.0\Primer Programa.exe
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\bin\Debug\net8.0\Primer Programa.deps.json
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\bin\Debug\net8.0\Primer Programa.runtimeconfig.json
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\bin\Debug\net8.0\Primer Programa.dll
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\bin\Debug\net8.0\Primer Programa.pdb
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.AssemblyInfoInputs.cache
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.AssemblyInfo.cs
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.csproj.CoreCompileInputs.cache
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.dll
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\refint\Primer Programa.dll
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.pdb
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\Primer Programa.genruntimeconfig.cache
+C:\Users\Cristhian Horacio\Documents\Visual Studio 2022\C# Course\Primer Programa\Primer Programa\obj\Debug\net8.0\ref\Primer Programa.dll
